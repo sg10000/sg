@@ -1,0 +1,7 @@
+C:\Saygin\CSharp\Projects\TestForMott\CommonServicesImpl\bin\Debug\CommonServicesImpl.dll
+C:\Saygin\CSharp\Projects\TestForMott\CommonServicesImpl\bin\Debug\CommonServicesImpl.pdb
+C:\Saygin\CSharp\Projects\TestForMott\CommonServicesImpl\bin\Debug\CommonServices.dll
+C:\Saygin\CSharp\Projects\TestForMott\CommonServicesImpl\bin\Debug\CommonServices.pdb
+C:\Saygin\CSharp\Projects\TestForMott\CommonServicesImpl\obj\Debug\CommonServicesImpl.csprojResolveAssemblyReference.cache
+C:\Saygin\CSharp\Projects\TestForMott\CommonServicesImpl\obj\Debug\CommonServicesImpl.dll
+C:\Saygin\CSharp\Projects\TestForMott\CommonServicesImpl\obj\Debug\CommonServicesImpl.pdb
