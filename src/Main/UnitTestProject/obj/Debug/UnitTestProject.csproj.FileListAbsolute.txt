@@ -1,9 +1,0 @@
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\bin\Debug\UnitTestProject.dll
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\bin\Debug\UnitTestProject.pdb
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\bin\Debug\CommonServices.dll
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\bin\Debug\CommonServicesImpl.dll
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\bin\Debug\CommonServicesImpl.pdb
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\bin\Debug\CommonServices.pdb
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\obj\Debug\UnitTestProject.dll
-C:\Saygin\CSharp\Projects\TestForMott\UnitTestProject\obj\Debug\UnitTestProject.pdb
