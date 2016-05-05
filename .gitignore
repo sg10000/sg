@@ -11,3 +11,4 @@ Release/
 *.opensdf
 *.tlog
 *.log
+/obj/Debug
