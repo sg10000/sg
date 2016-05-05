@@ -1,4 +1,0 @@
-C:\Saygin\CSharp\Projects\TestForMott\CommonServices\bin\Debug\CommonServices.dll
-C:\Saygin\CSharp\Projects\TestForMott\CommonServices\bin\Debug\CommonServices.pdb
-C:\Saygin\CSharp\Projects\TestForMott\CommonServices\obj\Debug\CommonServices.dll
-C:\Saygin\CSharp\Projects\TestForMott\CommonServices\obj\Debug\CommonServices.pdb

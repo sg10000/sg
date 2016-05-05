@@ -12,3 +12,4 @@ Release/
 *.tlog
 *.log
 /obj/Debug
+*.vshost.exe
