@@ -11,5 +11,8 @@ Release/
 *.opensdf
 *.tlog
 *.log
-/obj/Debug
 *.vshost.exe
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
